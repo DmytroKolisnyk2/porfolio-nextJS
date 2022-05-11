@@ -10,11 +10,11 @@ export default function Home() {
         <section>dodo </section>
         <section>dodo </section>
         <section>dodo </section>
-        <section>dodo </section>
+        <section>dodo HEHE</section>
         <section>dodo </section>
       </main>
       
-      <footer>dodo </footer>
+      <footer>not dodo </footer>
     </>
   );
 }
